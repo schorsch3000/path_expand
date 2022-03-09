@@ -2,7 +2,7 @@
     "name": "schorsch3000/expand_path",
     "description": "Expands a path e.g. from a configuration, respecting ~ and resolving from a relative path",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "schorsch3000",
