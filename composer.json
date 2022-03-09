@@ -1,0 +1,22 @@
+{
+    "name": "schorsch3000/expand_path",
+    "description": "Expands a path e.g. from a configuration, respecting ~ and resolving from a relative path",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "schorsch3000",
+            "email": "schorsch3000@shnbk.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PathExpand\\": "src/"
+        }
+
+    },
+    "require-dev": {
+        "codeception/codeception": "^4.1",
+        "codeception/module-asserts": "^1.0.0"
+    }
+}
